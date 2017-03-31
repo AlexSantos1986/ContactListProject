@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814540132881",
+    "firebase_url": "https://contactlistproject.firebaseio.com",
+    "project_id": "contactlistproject",
+    "storage_bucket": "contactlistproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814540132881:android:681e8f28a78bb00c",
+        "android_client_info": {
+          "package_name": "com.alexsantos.contactlistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814540132881-kq41chbc7dl993bg1jt1ba7cr95ej3rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKM9whYC0pi1_lcVUY_Q9bEtA0yz7B-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814540132881-kq41chbc7dl993bg1jt1ba7cr95ej3rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
